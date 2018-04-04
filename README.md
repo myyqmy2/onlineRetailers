@@ -24,6 +24,8 @@
 联系邮箱383982493@qq.com
 
 下面放几张预览图~
+ ![zhuye][2] ![cart][3]
+![shangpin][4] ![footer][5]
 ## Build Setup
 
 ``` bash
@@ -44,3 +46,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
   [1]: https://myyqmy2.github.io
+  [2]: http://github.com/myyqmy2/onlineRetailers/raw/master/jietu/zhuye.png
+  [3]: http://github.com/myyqmy2/onlineRetailers/raw/master/jietu/cart.png
+  [4]: http://github.com/myyqmy2/onlineRetailers/raw/master/jietu/shangpin.png
+  [5]: http://github.com/myyqmy2/onlineRetailers/raw/master/jietu/footer.png
