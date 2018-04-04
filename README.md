@@ -24,8 +24,10 @@
 联系邮箱383982493@qq.com
 
 下面放几张预览图~
- ![zhuye][2] ![cart][3]
-![shangpin][4] ![footer][5]
+ ![zhuye](http://github.com/myyqmy2/onlineRetailers/raw/master/jietu/zhuye.png) 
+ ![cart][3]
+ ![shangpin][4] 
+ ![footer][5]
 ## Build Setup
 
 ``` bash
